@@ -3,5 +3,5 @@ begin sets;
 	charset part1 = 1-14517\3;
 	charset part2 = 2-14517\3;
 	charset part3 = 3-14517\3;
-	charset part4 = 14518-18990;
+	charset part4 = 14518-18970;
 end;
