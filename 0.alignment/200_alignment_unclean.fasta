@@ -1,4 +1,4 @@
->EBOV|?|MH607891|SLE|WAR|2014-08-26
+>MH607891|WAR|2014-08-26
 ------------cacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -316,7 +316,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtg------
->EBOV|?|MH607892|SLE|WAR|2014-08-26
+>MH607892|WAR|2014-08-26
 ------------------------------------------------------------
 -----------------------------------------------taaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -634,7 +634,7 @@ taaaatcagaaataccttc-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------
->EBOV|?|MH607893|SLE|WAU|2014-08-26
+>MH607893|WAU|2014-08-26
 ------------------------------------------------------------
 ----------------ttttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -952,7 +952,7 @@ taaaatcagaaatacctt------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------
->EBOV|?|MH607894|SLE|Tonkolili|2014-08-26
+>MH607894|Tonkolili|2014-08-26
 ----------------------------------------------------aataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -1270,7 +1270,7 @@ taaaatcagaaataccttctttacaanat-------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------
->EBOV|?|MH607895|SLE|WAU|2014-08-26
+>MH607895|WAU|2014-08-26
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---ctgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -1588,7 +1588,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ntaatta-----------------------------------------------------
 ------------------------------------------------------------
 ---------
->EBOV|20140008|KR653251|SLE|Kenema|2014-08-22
+>KR653251|Kenema|2014-08-22
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -1906,7 +1906,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|20140024|KR653252|SLE|PortLoko|2014-08-20
+>KR653252|PortLoko|2014-08-20
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -2224,7 +2224,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|20140038|KR653267|SLE|Tonkolili|2014-08-23
+>KR653267|Tonkolili|2014-08-23
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -2542,7 +2542,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|20140091|KR653239|SLE|WesternRural|2014-08-22
+>KR653239|WesternRural|2014-08-22
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -2860,7 +2860,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|20140100|KR653241|SLE|Pujehun|2014-08-24
+>KR653241|Pujehun|2014-08-24
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -3178,7 +3178,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcnnnnnnnnnnn
 nnnnnnnnn
->EBOV|20140134|KR653227|SLE|Bombali|2014-08-26
+>KR653227|Bombali|2014-08-26
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -3496,7 +3496,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM_079983|KR817227|SLE|Kailahun|2014-06-13
+>KR817227|Kailahun|2014-06-13
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -3814,7 +3814,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM_080003|KR817228|SLE|Kailahun|2014-06-14
+>KR817228|Kailahun|2014-06-14
 ---nnnnnnacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -4132,7 +4132,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM_080011|KR817229|SLE|Kailahun|2014-06-15
+>KR817229|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttaggaccttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -4450,7 +4450,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|EM_080132|KR817236|SLE|Kailahun|2014-06-24
+>KR817236|Kailahun|2014-06-24
 ---nnnnggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -4768,7 +4768,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM_080165|KR817238|SLE|Kailahun|2014-06-26
+>KR817238|Kailahun|2014-06-26
 ---nnnnnnacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -5086,7 +5086,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM_080265|KR817244|SLE|Kailahun|2014-07-12
+>KR817244|Kailahun|2014-07-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -5404,7 +5404,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|Makona-UK1.1|KP184503|SLE|Kenema|2014-08-25
+>KP184503|Kenema|2014-08-25
 ---nnnnggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -5722,7 +5722,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggwcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM095|KM034550|SLE|Kailahun|2014-05-25
+>KM034550|Kailahun|2014-05-25
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -6040,7 +6040,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM096|KM034551|SLE|Kailahun|2014-05-26
+>KM034551|Kailahun|2014-05-26
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -6358,7 +6358,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM098|KM034552|SLE|Kailahun|2014-05-26
+>KM034552|Kailahun|2014-05-26
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnncatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -6676,7 +6676,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 annnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|EM104|KM233035|SLE|Kailahun|2014-06-02
+>KM233035|Kailahun|2014-06-02
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -6994,7 +6994,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM106|KM233036|SLE|Kailahun|2014-06-02
+>KM233036|Kailahun|2014-06-02
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -7312,7 +7312,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|EM110|KM233037|SLE|Kailahun|2014-06-03
+>KM233037|Kailahun|2014-06-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -7630,7 +7630,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM111|KM233038|SLE|Kailahun|2014-06-03
+>KM233038|Kailahun|2014-06-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -7948,7 +7948,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM112|KM233039|SLE|Kailahun|2014-06-03
+>KM233039|Kailahun|2014-06-03
 ---nnnnnnnnncacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -8266,7 +8266,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM113|KM233040|SLE|Kailahun|2014-06-03
+>KM233040|Kailahun|2014-06-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -8584,7 +8584,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM115|KM233041|SLE|Kailahun|2014-06-03
+>KM233041|Kailahun|2014-06-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -8902,7 +8902,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|EM119|KM233042|SLE|Kailahun|2014-06-03
+>KM233042|Kailahun|2014-06-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -9220,7 +9220,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM120|KM233043|SLE|Kailahun|2014-06-03
+>KM233043|Kailahun|2014-06-03
 ---nnnnnnnnncacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -9538,7 +9538,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|EM121|KM233044|SLE|Kailahun|2014-06-04
+>KM233044|Kailahun|2014-06-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -9856,7 +9856,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|EM124|KM233045|SLE|Kailahun|2014-06-04
+>KM233045|Kailahun|2014-06-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -10174,7 +10174,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3670|KM034553|SLE|Kailahun|2014-05-27
+>KM034553|Kailahun|2014-05-27
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -10492,7 +10492,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3676|KM034554|SLE|Kailahun|2014-05-27
+>KM034554|Kailahun|2014-05-27
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -10810,7 +10810,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3677|KM034556|SLE|Kailahun|2014-05-26
+>KM034556|Kailahun|2014-05-26
 ---nnnnngacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -11128,7 +11128,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3679|KM034558|SLE|Kailahun|2014-05-28
+>KM034558|Kailahun|2014-05-28
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -11446,7 +11446,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcnnnnnnnn
 nnnnnnnnn
->EBOV|G3680|KM034559|SLE|Kailahun|2014-05-28
+>KM034559|Kailahun|2014-05-28
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -11764,7 +11764,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3682|KM034560|SLE|Kailahun|2014-05-28
+>KM034560|Kailahun|2014-05-28
 ---nnnnnnnnncacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -12082,7 +12082,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3683|KM034561|SLE|Kailahun|2014-05-28
+>KM034561|Kailahun|2014-05-28
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -12400,7 +12400,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3686|KM034562|SLE|Kailahun|2014-05-28
+>KM034562|Kailahun|2014-05-28
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -12718,7 +12718,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3687|KM034563|SLE|Kailahun|2014-05-28
+>KM034563|Kailahun|2014-05-28
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
@@ -13036,7 +13036,7 @@ nnnnnnnnnnnnnnnnnnnnnnncaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3707|KM233049|SLE|Kailahun|2014-05-31
+>KM233049|Kailahun|2014-05-31
 ---nnnnnnnnnnnnnaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -13354,7 +13354,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3713|KM233050|SLE|Kailahun|2014-06-09
+>KM233050|Kailahun|2014-06-09
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -13672,7 +13672,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3724|KM233053|SLE|Kailahun|2014-06-05
+>KM233053|Kailahun|2014-06-05
 ---nnnnggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -13990,7 +13990,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3729|KM233054|SLE|Kailahun|2014-06-07
+>KM233054|Kailahun|2014-06-07
 ---nnnnnnnnnnnnnnaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -14308,7 +14308,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3734|KM233055|SLE|Kailahun|2014-06-07
+>KM233055|Kailahun|2014-06-07
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -14626,7 +14626,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3735|KM233056|SLE|Kailahun|2014-06-07
+>KM233056|Kailahun|2014-06-07
 ---nnnnggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -14944,7 +14944,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3750|KM233058|SLE|Kailahun|2014-06-10
+>KM233058|Kailahun|2014-06-10
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 ngaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -15262,7 +15262,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3752|KM233061|SLE|Kailahun|2014-06-10
+>KM233061|Kailahun|2014-06-10
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -15580,7 +15580,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3758|KM233062|SLE|Kailahun|2014-06-11
+>KM233062|Kailahun|2014-06-11
 ---nnnnnnnnnnnnnnnnnnnnnnaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -15898,7 +15898,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3764|KM233063|SLE|?|2014-06-12
+>KM233063|?|2014-06-12
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -16216,7 +16216,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3765|KM233064|SLE|Kailahun|2014-06-14
+>KM233064|Kailahun|2014-06-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -16534,7 +16534,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3769|KM233065|SLE|Kailahun|2014-06-12
+>KM233065|Kailahun|2014-06-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -16852,7 +16852,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3770|KM233069|SLE|Kailahun|2014-06-12
+>KM233069|Kailahun|2014-06-12
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -17170,7 +17170,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3771|KM233071|SLE|Kailahun|2014-06-12
+>KM233071|Kailahun|2014-06-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 ngaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -17488,7 +17488,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3782|KM233072|SLE|Kailahun|2014-06-14
+>KM233072|Kailahun|2014-06-14
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -17806,7 +17806,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3786|KM233073|SLE|Kailahun|2014-06-14
+>KM233073|Kailahun|2014-06-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -18124,7 +18124,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3787|KM233074|SLE|Kailahun|2014-06-14
+>KM233074|Kailahun|2014-06-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -18442,7 +18442,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3788|KM233075|SLE|Kailahun|2014-06-14
+>KM233075|Kailahun|2014-06-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -18760,7 +18760,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3789|KM233076|SLE|Kailahun|2014-06-14
+>KM233076|Kailahun|2014-06-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -19078,7 +19078,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagannnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3795|KM233077|SLE|Kailahun|2014-06-15
+>KM233077|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnntttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -19396,7 +19396,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3796|KM233078|SLE|Kailahun|2014-06-15
+>KM233078|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -19714,7 +19714,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3798|KM233079|SLE|Kailahun|2014-06-15
+>KM233079|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -20032,7 +20032,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3799|KM233080|SLE|Kailahun|2014-06-15
+>KM233080|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -20350,7 +20350,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3800|KM233081|SLE|Kailahun|2014-06-15
+>KM233081|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -20668,7 +20668,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3805|KM233082|SLE|Kailahun|2014-06-15
+>KM233082|Kailahun|2014-06-15
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -20986,7 +20986,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3807|KM233084|SLE|Kailahun|2014-06-15
+>KM233084|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -21304,7 +21304,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3808|KM233085|SLE|Kailahun|2014-06-15
+>KM233085|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -21622,7 +21622,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3809|KM233086|SLE|Kailahun|2014-06-15
+>KM233086|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -21940,7 +21940,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3810|KM233087|SLE|Kailahun|2014-06-15
+>KM233087|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -22258,7 +22258,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3814|KM233089|SLE|Kailahun|2014-06-15
+>KM233089|Kailahun|2014-06-15
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -22576,7 +22576,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3816|KM233090|SLE|Kailahun|2014-06-15
+>KM233090|Kailahun|2014-06-15
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -22894,7 +22894,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatgnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3817|KM233091|SLE|Kailahun|2014-06-15
+>KM233091|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -23212,7 +23212,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3818|KM233092|SLE|Kailahun|2014-06-15
+>KM233092|Kailahun|2014-06-15
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -23530,7 +23530,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3819|KM233093|SLE|Kailahun|2014-06-15
+>KM233093|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -23848,7 +23848,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3820|KM233094|SLE|Kailahun|2014-06-15
+>KM233094|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -24166,7 +24166,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3821|KM233095|SLE|Kailahun|2014-06-15
+>KM233095|Kailahun|2014-06-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -24484,7 +24484,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3822|KM233096|SLE|Kailahun|2014-06-15
+>KM233096|Kailahun|2014-06-15
 ---nnnnnnacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -24802,7 +24802,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3823|KM233097|SLE|Kailahun|2014-06-15
+>KM233097|Kailahun|2014-06-15
 ---nnnnnnnnacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -25120,7 +25120,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3825|KM233098|SLE|Kailahun|2014-06-16
+>KM233098|Kailahun|2014-06-16
 ---nnnnnnnnncacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -25438,7 +25438,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3826|KM233100|SLE|Kailahun|2014-06-16
+>KM233100|Kailahun|2014-06-16
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnntttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -25756,7 +25756,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3827|KM233101|SLE|Kailahun|2014-06-16
+>KM233101|Kailahun|2014-06-16
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -26074,7 +26074,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3829|KM233102|SLE|Kailahun|2014-06-16
+>KM233102|Kailahun|2014-06-16
 ---nnnnnnnnnnnnnnnnagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -26392,7 +26392,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3831|KM233103|SLE|Kailahun|2014-06-16
+>KM233103|Kailahun|2014-06-16
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -26710,7 +26710,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3834|KM233104|SLE|Kailahun|2014-06-17
+>KM233104|Kailahun|2014-06-17
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -27028,7 +27028,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3838|KM233105|SLE|Kailahun|2014-06-17
+>KM233105|Kailahun|2014-06-17
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -27346,7 +27346,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3840|KM233106|SLE|Kailahun|2014-06-17
+>KM233106|Kailahun|2014-06-17
 ---nnnnnnnnnnnnnnnnagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -27664,7 +27664,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3841|KM233107|SLE|Bo|2014-06-17
+>KM233107|Bo|2014-06-17
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -27982,7 +27982,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3845|KM233108|SLE|Kailahun|2014-06-18
+>KM233108|Kailahun|2014-06-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -28300,7 +28300,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3846|KM233109|SLE|Kailahun|2014-06-18
+>KM233109|Kailahun|2014-06-18
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -28618,7 +28618,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3848|KM233110|SLE|Kailahun|2014-06-18
+>KM233110|Kailahun|2014-06-18
 ---nnnnngacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -28936,7 +28936,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3850|KM233111|SLE|Kailahun|2014-06-18
+>KM233111|Kailahun|2014-06-18
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -29254,7 +29254,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3851|KM233112|SLE|Kenema|2014-06-18
+>KM233112|Kenema|2014-06-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -29572,7 +29572,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3856|KM233113|SLE|Kenema|2014-06-18
+>KM233113|Kenema|2014-06-18
 ---nnncggacacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -29890,7 +29890,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3857|KM233115|SLE|Kailahun|2014-06-18
+>KM233115|Kailahun|2014-06-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -30208,7 +30208,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|NM042|KM233116|SLE|Kambia|2014-06-04
+>KM233116|Kambia|2014-06-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -30526,7 +30526,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3838.2|KR105200|SLE|Kailahun|2014-06-16
+>KR105200|Kailahun|2014-06-16
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -30844,7 +30844,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3845.2|KR105201|SLE|Kenema|2014-06-19
+>KR105201|Kenema|2014-06-19
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -31162,7 +31162,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3851.2|KR105202|SLE|Kenema|2014-06-18
+>KR105202|Kenema|2014-06-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -31480,7 +31480,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttnnnnnn
 nnnnnnnnn
->EBOV|G3855.2|KR105203|SLE|Kenema|2014-06-17
+>KR105203|Kenema|2014-06-17
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnntacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -31798,7 +31798,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3886.1|KR105204|SLE|Kenema|2014-06-19
+>KR105204|Kenema|2014-06-19
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -32116,7 +32116,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3889.1|KR105205|SLE|Kenema|2014-06-19
+>KR105205|Kenema|2014-06-19
 ---nnnnnnnnnnnnnnnnnnnnnnaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -32434,7 +32434,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3913.1|KR105206|SLE|Kenema|2014-06-21
+>KR105206|Kenema|2014-06-21
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnngaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -32752,7 +32752,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 attcctggaaaaatggtcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3917.1|KR105207|SLE|Kenema|2014-06-21
+>KR105207|Kenema|2014-06-21
 ---nnnnnnnnnnnnnnnnnnaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -33070,7 +33070,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3926.2|KR105208|SLE|Kailahun|2014-06-22
+>KR105208|Kailahun|2014-06-22
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -33388,7 +33388,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3949.1|KR105209|SLE|?|2014-06-24
+>KR105209|?|2014-06-24
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnngaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -33706,7 +33706,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttnnnn
 nnnnnnnnn
->EBOV|G3950.1|KR105210|SLE|?|2014-06-24
+>KR105210|?|2014-06-24
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -34024,7 +34024,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G3952.1|KR105211|SLE|Kailahun|2014-06-25
+>KR105211|Kailahun|2014-06-25
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnntacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -34342,7 +34342,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataannnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G3972.1|KR105212|SLE|?|2014-06-24
+>KR105212|?|2014-06-24
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnncattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -34660,7 +34660,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4132.1|KR105213|SLE|Kenema|2014-07-05
+>KR105213|Kenema|2014-07-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -34978,7 +34978,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4133.1|KR105214|SLE|Kailahun|2014-07-04
+>KR105214|Kailahun|2014-07-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -35296,7 +35296,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4151.1|KR105215|SLE|Kenema|2014-07-06
+>KR105215|Kenema|2014-07-06
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -35614,7 +35614,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4190.1|KR105216|SLE|Kailahun|2014-07-07
+>KR105216|Kailahun|2014-07-07
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -35932,7 +35932,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4200.1|KR105217|SLE|Kenema|2014-07-08
+>KR105217|Kenema|2014-07-08
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -36250,7 +36250,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4217.1|KR105218|SLE|Bo|2014-07-08
+>KR105218|Bo|2014-07-08
 ---nnnnnnnnnnnnnnnnnnaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -36568,7 +36568,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4221.1|KR105219|SLE|?|2014-07-09
+>KR105219|?|2014-07-09
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -36886,7 +36886,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4235.1|KR105220|SLE|Kailahun|2014-07-11
+>KR105220|Kailahun|2014-07-11
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -37204,7 +37204,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4236.1|KR105221|SLE|Kailahun|2014-07-10
+>KR105221|Kailahun|2014-07-10
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -37522,7 +37522,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4250.1|KR105222|SLE|Kailahun|2014-07-11
+>KR105222|Kailahun|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -37840,7 +37840,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4251.1|KR105223|SLE|Kailahun|2014-07-11
+>KR105223|Kailahun|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -38158,7 +38158,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcncacacaaaaatttaaaaataaatctatttcttctttnnnnn
 nnnnnnnnn
->EBOV|G4252.1|KR105224|SLE|Kailahun|2014-07-11
+>KR105224|Kailahun|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -38476,7 +38476,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4254.1|KR105225|SLE|Kailahun|2014-07-11
+>KR105225|Kailahun|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -38794,7 +38794,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4255.1|KR105226|SLE|Kailahun|2014-07-11
+>KR105226|Kailahun|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -39112,7 +39112,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4263.1|KR105227|SLE|Kenema|2014-07-11
+>KR105227|Kenema|2014-07-11
 ---nnnnnnnnnnnnnnnnagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -39430,7 +39430,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4264.1|KR105228|SLE|Kenema|2014-07-11
+>KR105228|Kenema|2014-07-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -39748,7 +39748,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4299.1|KR105229|SLE|Kailahun|2014-07-12
+>KR105229|Kailahun|2014-07-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -40066,7 +40066,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4312.2|KR105230|SLE|PortLoko|2014-07-12
+>KR105230|PortLoko|2014-07-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -40384,7 +40384,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4316.1|KR105231|SLE|Kenema|2014-07-13
+>KR105231|Kenema|2014-07-13
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnntttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -40702,7 +40702,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4323.2|KR105232|SLE|Kenema|2014-07-14
+>KR105232|Kenema|2014-07-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -41020,7 +41020,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4324.1|KR105233|SLE|Kenema|2014-07-14
+>KR105233|Kenema|2014-07-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -41338,7 +41338,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4325.1|KR105234|SLE|Kenema|2014-07-14
+>KR105234|Kenema|2014-07-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -41656,7 +41656,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4329.1|KR105235|SLE|Kailahun|2014-07-14
+>KR105235|Kailahun|2014-07-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -41974,7 +41974,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4333.1|KR105236|SLE|Kailahun|2014-07-13
+>KR105236|Kailahun|2014-07-13
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -42292,7 +42292,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4334.1|KR105237|SLE|Kenema|2014-07-14
+>KR105237|Kenema|2014-07-14
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnncattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -42610,7 +42610,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4337.1|KR105238|SLE|Kailahun|2014-07-14
+>KR105238|Kailahun|2014-07-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -42928,7 +42928,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4345.1|KR105239|SLE|Kenema|2014-07-18
+>KR105239|Kenema|2014-07-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -43246,7 +43246,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4347.1|KR105240|SLE|Kenema|2014-07-15
+>KR105240|Kenema|2014-07-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -43564,7 +43564,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4348.1|KR105241|SLE|Kenema|2014-07-09
+>KR105241|Kenema|2014-07-09
 ---nnnnnnnnnnnnnnnnnnnnnnnngaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -43882,7 +43882,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4350.1|KR105242|SLE|Kenema|2014-07-14
+>KR105242|Kenema|2014-07-14
 ---nnnnnnnnnnnnnnnnnnaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -44200,7 +44200,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4380.1|KR105243|SLE|Kenema|2014-07-15
+>KR105243|Kenema|2014-07-15
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -44518,7 +44518,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4382.1|KR105244|SLE|Kenema|2014-07-16
+>KR105244|Kenema|2014-07-16
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -44836,7 +44836,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4389.1|KR105245|SLE|Kenema|2014-07-16
+>KR105245|Kenema|2014-07-16
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -45154,7 +45154,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4406.1|KR105246|SLE|Kono|2014-07-18
+>KR105246|Kono|2014-07-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -45472,7 +45472,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4415.1|KR105247|SLE|Kenema|2014-07-18
+>KR105247|Kenema|2014-07-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -45790,7 +45790,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4416.1|KR105248|SLE|Bo|2014-07-18
+>KR105248|Bo|2014-07-18
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -46108,7 +46108,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4419.1|KR105249|SLE|Kenema|2014-07-19
+>KR105249|Kenema|2014-07-19
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -46426,7 +46426,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4422.1|KR105250|SLE|Kenema|2014-07-19
+>KR105250|Kenema|2014-07-19
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnng
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -46744,7 +46744,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4423.1|KR105251|SLE|Kailahun|2014-07-19
+>KR105251|Kailahun|2014-07-19
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -47062,7 +47062,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4424.1|KR105252|SLE|Kailahun|2014-07-19
+>KR105252|Kailahun|2014-07-19
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -47380,7 +47380,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4431.1|KR105253|SLE|Bo|2014-07-20
+>KR105253|Bo|2014-07-20
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnattattaatyttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -47698,7 +47698,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttctttnnnnn
 nnnnnnnnn
->EBOV|G4433.1|KR105254|SLE|Kailahun|2014-07-20
+>KR105254|Kailahun|2014-07-20
 ---nnnnnnnnnnnnnnnnnnnnnnaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -48016,7 +48016,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4437.1|KR105255|SLE|Kenema|2014-07-20
+>KR105255|Kenema|2014-07-20
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -48334,7 +48334,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4445.1|KR105256|SLE|Kenema|2014-07-21
+>KR105256|Kenema|2014-07-21
 ---nnnnnnnnacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -48652,7 +48652,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4450.1|KR105257|SLE|Kenema|2014-07-21
+>KR105257|Kenema|2014-07-21
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -48970,7 +48970,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4454.1|KR105258|SLE|Kailahun|2014-07-21
+>KR105258|Kailahun|2014-07-21
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtgtgtgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -49288,7 +49288,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4465.1|KR105259|SLE|Kenema|2014-08-05
+>KR105259|Kenema|2014-08-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -49606,7 +49606,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4466.1|KR105260|SLE|Bo|2014-07-22
+>KR105260|Bo|2014-07-22
 ---nnnnnnnnnnnnnnnnnnaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -49924,7 +49924,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4527.2|KR105261|SLE|Kenema|2014-07-26
+>KR105261|Kenema|2014-07-26
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -50242,7 +50242,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4683.1|KR105262|SLE|?|2014-08-01
+>KR105262|?|2014-08-01
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -50560,7 +50560,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4698.1|KR105263|SLE|Kenema|2014-08-03
+>KR105263|Kenema|2014-08-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -50878,7 +50878,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4701.1|KR105264|SLE|Kenema|2014-08-03
+>KR105264|Kenema|2014-08-03
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -51196,7 +51196,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4702.1|KR105265|SLE|Kenema|2014-08-03
+>KR105265|Kenema|2014-08-03
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnntttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -51514,7 +51514,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4717.1|KR105266|SLE|Kenema|2014-08-04
+>KR105266|Kenema|2014-08-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -51832,7 +51832,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4725.1|KR105267|SLE|Moyamba|2014-08-04
+>KR105267|Moyamba|2014-08-04
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -52150,7 +52150,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4730.1|KR105268|SLE|Kenema|2014-08-05
+>KR105268|Kenema|2014-08-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacccag
@@ -52468,7 +52468,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4736.1|KR105269|SLE|Kenema|2014-08-05
+>KR105269|Kenema|2014-08-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -52786,7 +52786,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4748.1|KR105270|SLE|?|2014-08-05
+>KR105270|?|2014-08-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -53104,7 +53104,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4751.1|KR105271|SLE|?|2014-08-05
+>KR105271|?|2014-08-05
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -53422,7 +53422,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4837.1|KR105272|SLE|Kenema|2014-08-09
+>KR105272|Kenema|2014-08-09
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -53740,7 +53740,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4856.1|KR105273|SLE|Kenema|2014-08-10
+>KR105273|Kenema|2014-08-10
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnctgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -54058,7 +54058,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcncacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4861.1|KR105274|SLE|?|2014-08-10
+>KR105274|?|2014-08-10
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -54376,7 +54376,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4868.1|KR105275|SLE|?|2014-08-10
+>KR105275|?|2014-08-10
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -54694,7 +54694,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4886.1|KR105276|SLE|Kenema|2014-08-11
+>KR105276|Kenema|2014-08-11
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -55012,7 +55012,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4907.1|KR105277|SLE|Kenema|2014-08-12
+>KR105277|Kenema|2014-08-12
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -55330,7 +55330,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4937.1|KR105278|SLE|Kenema|2014-08-13
+>KR105278|Kenema|2014-08-13
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -55648,7 +55648,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4942.1|KR105279|SLE|Moyamba|2014-08-12
+>KR105279|Moyamba|2014-08-12
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -55966,7 +55966,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4946.1|KR105280|SLE|Kenema|2014-08-13
+>KR105280|Kenema|2014-08-13
 -nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -56284,7 +56284,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaatnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G4955.1|KR105281|SLE|?|2014-08-13
+>KR105281|?|2014-08-13
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -56602,7 +56602,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttctttnnnnn
 nnnnnnnnn
->EBOV|G4956.1|KR105282|SLE|Tonkolili|2014-08-13
+>KR105282|Tonkolili|2014-08-13
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnngattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -56920,7 +56920,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4960.1|KR105283|SLE|Kenema|2014-08-14
+>KR105283|Kenema|2014-08-14
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -57238,7 +57238,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4971.1|KR105284|SLE|Kenema|2014-08-14
+>KR105284|Kenema|2014-08-14
 ---nnnnnnnnnnnnnnnnnnnnnnaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -57556,7 +57556,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4972.1|KR105285|SLE|Kenema|2014-08-14
+>KR105285|Kenema|2014-08-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -57874,7 +57874,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4973.1|KR105286|SLE|?|2014-08-12
+>KR105286|?|2014-08-12
 ---nnnnnnnnnnnnnaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaaggtagagaacaacctag
@@ -58192,7 +58192,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4981.1|KR105287|SLE|?|2014-08-14
+>KR105287|?|2014-08-14
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -58510,7 +58510,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4982.1|KR105288|SLE|?|2014-08-14
+>KR105288|?|2014-08-14
 ---nnnnnnnnnnncaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -58828,7 +58828,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4994.1|KR105289|SLE|?|2014-08-15
+>KR105289|?|2014-08-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -59146,7 +59146,7 @@ taaaatcagaaatatcttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4996.1|KR105290|SLE|?|2014-08-15
+>KR105290|?|2014-08-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -59464,7 +59464,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G4999.1|KR105291|SLE|Kenema|2014-08-15
+>KR105291|Kenema|2014-08-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -59782,7 +59782,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5012.3|KR105292|SLE|WesternArea|2014-08-15
+>KR105292|WesternArea|2014-08-15
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -60100,7 +60100,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgn
 nnnnnnnnn
->EBOV|G5016.1|KR105293|SLE|Kenema|2014-08-16
+>KR105293|Kenema|2014-08-16
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -60418,7 +60418,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5019.1|KR105294|SLE|Kenema|2014-08-16
+>KR105294|Kenema|2014-08-16
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnngattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -60736,7 +60736,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5039.1|KR105295|SLE|Kenema|2014-08-17
+>KR105295|Kenema|2014-08-17
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -61054,7 +61054,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G5059.1|KR105296|SLE|Kenema|2014-08-18
+>KR105296|Kenema|2014-08-18
 --nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnnnnnnnnnnnnnnnnnnnnttgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -61372,7 +61372,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnnnn
->EBOV|G5064.1|KR105297|SLE|Moyamba|2014-08-17
+>KR105297|Moyamba|2014-08-17
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -61690,7 +61690,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5112.1|KR105298|SLE|Kenema|2014-08-19
+>KR105298|Kenema|2014-08-19
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -62008,7 +62008,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5114.1|KR105299|SLE|Pujehun|2014-08-18
+>KR105299|Pujehun|2014-08-18
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntaacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -62326,7 +62326,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5119.1|KR105300|SLE|Kenema|2014-08-24
+>KR105300|Kenema|2014-08-24
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -62644,7 +62644,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5244.1|KR105301|SLE|?|2014-08-22
+>KR105301|?|2014-08-22
 ---nnnnnnnnnnnnnnnnnnnnnnaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -62962,7 +62962,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5295.1|KR105302|SLE|?|2014-08-25
+>KR105302|?|2014-08-25
 ---nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 nnnnnnngattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
@@ -63280,7 +63280,7 @@ taaaatcagaaataccttctttacaatatagcagactagataataatcttcgtgttaatg
 ataattaaggcattgaccacgctcatcagaaggctcactagaataaacgttgcaaaaagg
 atccctggaaaaatggtcgcacacaaaaatttaaaaataaatctatttcttcttttttgt
 gtgnnnnnn
->EBOV|G5296.1|KR105303|SLE|?|2014-08-25
+>KR105303|?|2014-08-25
 ---nnnnnnncacacaaaaagaaagaagaatttttaggatcttttgtgtgcgaataacta
 tgaggaagattaataattttcctctcattgaaatttatatcggaatttaaattgaaattg
 ttactgtaatcatacctggtttgtttcagagccatatcaccaagatagagaacaacctag
